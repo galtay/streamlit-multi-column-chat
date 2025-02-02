@@ -1,2 +1,3 @@
 # streamlit-multi-column-chat
-A demo of a multi column streamlit app with chat_input fixed to the bottom of one column
+A a multi column streamlit app with chat_input fixed to the bottom of one column.
+Click [here](https://galtay-streamlit-multi-column-chat-app-q6ynqa.streamlit.app/) for demo.
