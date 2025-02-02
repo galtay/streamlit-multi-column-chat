@@ -65,7 +65,7 @@ with st.sidebar:
         message_container_height = st.slider(
             "Adjust chat height",
             min_value=100,
-            max_value=1200,
+            max_value=1600,
             value=750,
             step=20,
             help="Adjust the height of the container for messages",
