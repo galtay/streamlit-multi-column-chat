@@ -101,3 +101,7 @@ with left_col:
                     llm_gen(st.session_state["messages"], mock=mock_llm)
                 )
         st.session_state.messages.append({"role": "assistant", "content": response})
+
+with right_col:
+    with st.container(height=message_container_height):
+        st.write("Extra stuff here")
